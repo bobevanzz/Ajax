@@ -1,5 +1,5 @@
 	var url = "http://prs.doudsystems.com";
-	var seg1 = "/Users";
+	var seg1 = "/Vendors";
 $().ready(function() {
 
 	});
